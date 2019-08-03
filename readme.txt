@@ -1,1 +1,1 @@
-read me by jonah
+Jonah's README, first push to github repo :) 
